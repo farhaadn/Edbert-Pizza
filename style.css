@@ -36,7 +36,7 @@ nav {
 main {
     height: 400px;
     text-align: center;
-    padding-top: 80px;
+    padding-top: 30px;
     padding-left: 240px;
     padding-right: 240px;
 }
@@ -67,17 +67,17 @@ nav a {
 
 footer {
     background-color: rgba(0, 0, 0, 0.70);
-    padding-top: 50px;
-    padding-bottom: 50px;
+    padding-top: 25px;
+    padding-bottom: 25px;
     margin-bottom: 50px;
 }
 
 footer p {
     color: rgb(198, 198, 198);
-    font-size: 10px;
+    font-size: 15px;
     text-align: center;
 }
 
 .maps {
-    padding-bottom: 100px;
+    padding-bottom: 75px;
 }
